@@ -162,7 +162,6 @@ img { display: block; max-width: 100%; height: auto; }
 .float { position: fixed; z-index: 25; }
 .float[hidden] { display: none; }
 .change-luck { right: max(0px, calc(50% - var(--app-width) / 2)); top: 170px; width: min(96px, 21vw); }
-.free-rm88 { left: max(0px, calc(50% - var(--app-width) / 2)); top: 480px; width: min(110px, 24vw); }
 .deposit-float { right: calc(max(0px, calc(50% - var(--app-width) / 2)) + 8px); bottom: calc(var(--nav-height) + 16px + env(safe-area-inset-bottom)); width: min(70px, 16vw); }
 .float .close { position: absolute; top: 0; right: 2px; width: 22px; height: 22px; border-radius: 50%; background: rgba(0, 0, 0, .55); color: #fff; font-size: 14px; line-height: 1; }
 
